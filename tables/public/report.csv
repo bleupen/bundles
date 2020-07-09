@@ -1,0 +1,3 @@
+id,type,name,ownerId,slug,description,defn,settings,shared,defnUpdatedAt,createdAt,updatedAt,source,sourceId,_altid,editingId,datasourceId,folderId,tenant
+084e8027-cbb5-48d0-90d6-0709637022fa,dashboard,Northwind Dashboard,admin,northwind-dashboard,,"{""layout"": {}, ""visuals"": []}",{},f,,2020-07-08 12:58:32.262+00,2020-07-08 12:58:32.262+00,,,,,,,manager
+bc2b6034-888e-4bec-9008-f425ef6660ea,dataView,General EE REport,admin,general-ee-report,,{},{},f,,2020-07-09 20:59:23.989+00,2020-07-09 20:59:23.989+00,,,,,,,manager

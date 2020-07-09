@@ -1,0 +1,11 @@
+id,name,defaultTeamId,systemId,licenseToken,createdAt,updatedAt,publicKey,license,dbLogEnabled,queryLogEnabled,maxConcurrentJobs,mail,helpUrl,helpEmail,passwordStrength,defaultDomainId,queryDatasetTTL,jobHistorySize,requestLog,esLogEnabled,u2BufferLogging,sanitizeDataHtml,jobsEnabled
+manager,Manager,,8f73e081-2e81-40e5-abd2-50522ce2b1f2,eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbnRlcnByaXNlIjp0cnVlLCJmZWF0dXJlcyI6eyJ0b2tlbiI6dHJ1ZSwiZGlzY292ZXIiOnRydWUsImRhc2hib2FyZHMiOnRydWUsInZpc3VhbHMiOnRydWUsImRyaWxsZG93biI6dHJ1ZSwiZGF0YWJhc2UiOnRydWV9LCJtdWx0aVRlbmFudCI6dHJ1ZSwiZGV2ZWxvcGVyIjp0cnVlLCJtb2R1bGVzIjp7fSwiaXNzdWVkVG8iOiJFbnRyaW5zaWsqIiwiZXhwIjoxNjAyMDE3MjA1LjUxMiwicmVuZXdhbERhdGUiOjE1OTk0MjUyMDUuNTEyLCJzeXN0ZW1JZCI6IjhmNzNlMDgxLTJlODEtNDBlNS1hYmQyLTUwNTIyY2UyYjFmMiIsInN0YXR1cyI6ImZ1bGwiLCJpYXQiOjE1Njc3MTY0Mjl9.ajh02Q72HTpTb0BKP6b5M-JubyEVAFtqgpkoPckQatRYCigrOumrg5-Co9vTV-OVBqLzzHbb4tRvBneYX7vnlzQBa5A_o9yEpahkugVLxHeL-ojiL8ajxNdtE-M_6ej592dp7pphPIQ_ejAymVwGl_tKzO9L-XfmGGW_XtebBobZmeRzZuw3uiA3r15uVJWY285e4W0kOlSq4NTBTyGTcmwVIgJgUvomJhEFDYoMzx2jgqv00pHssrqhGu5CGbAN_p8Qxbz_4dSj5JCRaFiD-ot4SCIVAfD1hg7vTat4sI3W0JiekL4VPoF94vt_-8Pah_C0Kk5L0FxsOUEp5sHQZA,2020-07-03 12:38:06.258914+00,2020-07-03 12:38:33.515+00,"-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuPmZ+N2sKdhl+Z7g+Vq2
+KgG+W+vuFk5SvC7xQIUc+y8T5AN050uPGveareipZgTfUTz6k5b0TrxUdJShx6Ux
+qllIRifl7t1pyzNH1+MbQ8ilQVaxis2K8pgn1or2lPJ385XZ/DP0iCUBlODJPYRF
+KY1kwNfjjo5gET+ekZNbYtKJkYHQx0gPh1H/EpN9wdCRly0oz0EHlP4bU0s1VD2n
+UKU+um+alIVivL1V94B8lWxB+w/qIQY5cHQPXzK0twibavSi1cWPP6d6q9/D4MNm
+PI/Eu3u8VW61yfKuq93zoRsPOYiWjfpSWfpqNzgLAS8cpRePQMn9s9LeRYTPRvDE
+QQIDAQAB
+-----END PUBLIC KEY-----
+","{""exp"": 1602017205.512, ""iat"": 1567716429, ""status"": ""full"", ""modules"": {}, ""features"": {""token"": true, ""visuals"": true, ""database"": true, ""discover"": true, ""drilldown"": true, ""dashboards"": true}, ""issuedTo"": ""Entrinsik*"", ""systemId"": ""8f73e081-2e81-40e5-abd2-50522ce2b1f2"", ""developer"": true, ""enterprise"": true, ""multiTenant"": true, ""renewalDate"": 1599425205.512}",f,f,5,{},https://informer5.zendesk.com/hc/en-us,"",Weak,,60,200,"{""api"": true, ""viz"": true, ""errors"": true, ""content"": false, ""warnings"": true, ""successes"": true}",f,f,t,t

@@ -1,0 +1,23 @@
+{
+    "createdBy": {
+        "username": "admin",
+        "displayName": "System Administrator"
+    },
+    "createdAt": "2020-07-09T22:40:58.859Z",
+    "bundle": {
+        "name": "backup:1594334454505"
+    },
+    "system": {
+        "id": "manager",
+        "name": "Manager",
+        "systemId": "8f73e081-2e81-40e5-abd2-50522ce2b1f2"
+    },
+    "version": "5.4.0",
+    "datasources": [
+        {
+            "id": "da061cd8-885d-414a-b1a6-244f5c299347",
+            "name": "Northwind",
+            "type": "postgres"
+        }
+    ]
+}
